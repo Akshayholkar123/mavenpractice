@@ -12,7 +12,12 @@ public class JavaTest {
 	public void deleteCurruptConatactTest()
 	{
 		System.out.println("delete corupt contacts");
+	}	@Test
+	public void deleteContactTest()
+	{
+		System.out.println("delete unnecessary contacts");
 	}
+
 
 	
 }
