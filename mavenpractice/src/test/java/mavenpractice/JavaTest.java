@@ -8,9 +8,10 @@ public class JavaTest {
 	{
 		System.out.println("maven practice test");
 	}
-	public void deleteContactTest()
+	@Test
+	public void deleteCurruptConatactTest()
 	{
-		System.out.println("delete unnecessary contacts");
+		System.out.println("delete corupt contacts");
 	}
 
 	
